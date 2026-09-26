@@ -1,0 +1,4 @@
+Year1[[:space:]]Term1/BIO1008/2-Text[[:space:]]book/Eric[[:space:]]Simon,[[:space:]]Jean[[:space:]]Dickey,[[:space:]]Jane[[:space:]]Reece[[:space:]]-[[:space:]]Campbell[[:space:]]Essential[[:space:]]Biology[[:space:]]with[[:space:]]Physiology[[:space:]](2018,[[:space:]]Pearson)[[:space:]]-[[:space:]]libgen.li.pdf filter=lfs diff=lfs merge=lfs -text
+Year1[[:space:]]Term1/BIO1008/1-Lecture/1008[[:space:]]B07[[:space:]]DNA[[:space:]]Structure[[:space:]]and[[:space:]]Function[[:space:]]Stu.pptx filter=lfs diff=lfs merge=lfs -text
+Year1[[:space:]]Term1/BIO1008/1-Lecture/1008[[:space:]]B06[[:space:]]Cell[[:space:]]Reproduction[[:space:]]Stu.pptx filter=lfs diff=lfs merge=lfs -text
+Year1[[:space:]]Term1/MAT1001/2-Text[[:space:]]book/Precalculus,[[:space:]]7th[[:space:]]Edition[[:space:]](D_[[:space:]](2).pdf filter=lfs diff=lfs merge=lfs -text
